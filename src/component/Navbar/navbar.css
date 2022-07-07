@@ -1,0 +1,18 @@
+.navbar-brand{
+font-size: 25px;
+    margin-left: 10px;
+    font-weight: 500;
+}
+.nav-item{
+    margin-left: 60px;
+    font-size: 20px;
+}
+.navs:hover{
+    text-decoration: underline;
+    /* background-color: black; */
+    transition: all 0.3s ease-in-out;
+}
+.smallicon{
+    margin: 15px;
+    cursor: pointer;
+}
